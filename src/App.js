@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import img from './star_lord_minimal_artwork-1366x768.jpg';
 import 'font-awesome/css/font-awesome.min.css';
 import './App.css';
 
