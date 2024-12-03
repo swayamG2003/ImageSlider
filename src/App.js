@@ -32,7 +32,7 @@ class App extends Component {
       },
       {
         id: 4,
-        background: '',
+        background: "https://pixelz.cc/wp-content/uploads/2017/11/csgo-counter-strike-global-offensive-selfie-uhd-4k-wallpaper.jpg",
         text: "Made by Swayam & Sharan",
         link: ''
       }
